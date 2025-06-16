@@ -70,7 +70,7 @@
           <button class="btn btn-primary">Coworking space</button>
           <button class="btn btn-outline btn-primary">Research</button>
         </div> -->
-        <a class="btn btn-primary rounded-full" href="mailto:">
+        <a class="btn btn-primary rounded-full" href="mailto:info@base21.tech">
           info@base21.tech
         </a>
       </div>
