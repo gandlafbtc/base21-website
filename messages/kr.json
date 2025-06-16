@@ -1,0 +1,5 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "example_message": "안녕하세요 {username}",
+  "t_comming_soon": "곧 오픈 예정..."
+}
